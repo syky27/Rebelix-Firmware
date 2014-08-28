@@ -150,9 +150,9 @@
 
 // If you are using a preconfigured hotend then you can use one of the value sets by uncommenting it
 // Prusa Nozzle V3 - fan 25mm
-    #define  DEFAULT_Kp 26.18
-    #define  DEFAULT_Ki 2.51
-    #define  DEFAULT_Kd 68.21    
+    #define  DEFAULT_Kp 31.68
+    #define  DEFAULT_Ki 2.66
+    #define  DEFAULT_Kd 94.47   
 #endif // PIDTEMP
 
 // Bed Temperature Control
